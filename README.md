@@ -1,11 +1,11 @@
 # Two-Pass-Assembler
-/*****************************************************************************																													
-AUTHOR: B,Rahen
+						
+AUTHOR: B.Rahen
 ROLL NO.: 2301CS37
 Declaration of Authorship
 This txt file, claims.txt, is part of the assignment of CS2102 at the 
 department of Computer Science and Engg, IIT Patna . 
-*****************************************************************************/
+
 Files:
 ==========
 *All the files I submitted, asm.cpp and emu.cpp and claims.txt, have my name and student id at the start, along with a declaration of authorship.
